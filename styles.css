@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 10px;
+}
+
+.logo-left {
+    margin-right: 300px;
+}
+
+.links-right {
+    margin-left: 300px;
+}
+
+.container {
+
+}
